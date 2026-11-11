@@ -1,0 +1,21 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+
+# Quarto / knitr
+/.quarto/
+*_cache/
+
+# Data (downloaded by scripts, never committed)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
