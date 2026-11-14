@@ -1,0 +1,55 @@
+gsm,title,patient,tissue,library_sizess,genes_detected
+GSM1228184,primary colorectal cancer AMC_2-1,AMC_2,Primary,33963598,26774
+GSM1228185,primary colorectal cancer AMC_3-1,AMC_3,Primary,28809611,26458
+GSM1228186,primary colorectal cancer AMC_5-1,AMC_5,Primary,22922528,26094
+GSM1228187,primary colorectal cancer AMC_6-1,AMC_6,Primary,29502964,26912
+GSM1228188,primary colorectal cancer AMC_7-1,AMC_7,Primary,30413898,26204
+GSM1228189,primary colorectal cancer AMC_8-1,AMC_8,Primary,26358732,25936
+GSM1228190,primary colorectal cancer AMC_9-1,AMC_9,Primary,23243043,26585
+GSM1228191,primary colorectal cancer AMC_10-1,AMC_10,Primary,30063492,27474
+GSM1228192,primary colorectal cancer AMC_12-1,AMC_12,Primary,25107958,26570
+GSM1228193,primary colorectal cancer AMC_13-1,AMC_13,Primary,28183208,26658
+GSM1228194,primary colorectal cancer AMC_17-1,AMC_17,Primary,20468067,25852
+GSM1228195,primary colorectal cancer AMC_18-1,AMC_18,Primary,25325692,25450
+GSM1228196,primary colorectal cancer AMC_19-1,AMC_19,Primary,36527531,27335
+GSM1228197,primary colorectal cancer AMC_20-1,AMC_20,Primary,28372264,25272
+GSM1228198,primary colorectal cancer AMC_21-1,AMC_21,Primary,21803317,26124
+GSM1228199,primary colorectal cancer AMC_22-1,AMC_22,Primary,20752896,25366
+GSM1228200,primary colorectal cancer AMC_23-1,AMC_23,Primary,26321799,26944
+GSM1228201,primary colorectal cancer AMC_24-1,AMC_24,Primary,23629691,25695
+GSM1228202,normal colon AMC_2-2,AMC_2,Normal,29481002,26995
+GSM1228203,normal colon AMC_3-2,AMC_3,Normal,12585904,24670
+GSM1228204,normal colon AMC_5-2,AMC_5,Normal,35192881,27664
+GSM1228205,normal colon AMC_6-2,AMC_6,Normal,26827937,27032
+GSM1228206,normal colon AMC_7-2,AMC_7,Normal,20652718,26227
+GSM1228207,normal colon AMC_8-2,AMC_8,Normal,27430440,26379
+GSM1228208,normal colon AMC_9-2,AMC_9,Normal,31271131,27149
+GSM1228209,normal colon AMC_10-2,AMC_10,Normal,28878314,26828
+GSM1228210,normal colon AMC_12-2,AMC_12,Normal,28354227,26487
+GSM1228211,normal colon AMC_13-2,AMC_13,Normal,19444712,25120
+GSM1228212,normal colon AMC_17-2,AMC_17,Normal,16590779,25458
+GSM1228213,normal colon AMC_18-2,AMC_18,Normal,28699805,26617
+GSM1228214,normal colon AMC_19-2,AMC_19,Normal,20209590,25916
+GSM1228215,normal colon AMC_20-2,AMC_20,Normal,27667622,26734
+GSM1228216,normal colon AMC_21-2,AMC_21,Normal,21367373,26004
+GSM1228217,normal colon AMC_22-2,AMC_22,Normal,19997785,26005
+GSM1228218,normal colon AMC_23-2,AMC_23,Normal,29115249,26442
+GSM1228219,normal colon AMC_24-2,AMC_24,Normal,26978457,26275
+GSM1228220,metastasized cancer AMC_2-3,AMC_2,Metastasis,29458154,26900
+GSM1228221,metastasized cancer AMC_3-3,AMC_3,Metastasis,31872156,26627
+GSM1228222,metastasized cancer AMC_5-3,AMC_5,Metastasis,30729659,27047
+GSM1228223,metastasized cancer AMC_6-3,AMC_6,Metastasis,22843199,26551
+GSM1228224,metastasized cancer AMC_7-3,AMC_7,Metastasis,28983728,27086
+GSM1228225,metastasized cancer AMC_8-3,AMC_8,Metastasis,20539137,25110
+GSM1228226,metastasized cancer AMC_9-3,AMC_9,Metastasis,33358186,27349
+GSM1228227,metastasized cancer AMC_10-3,AMC_10,Metastasis,21532699,24429
+GSM1228228,metastasized cancer AMC_12-3,AMC_12,Metastasis,21143038,25744
+GSM1228229,metastasized cancer AMC_13-3,AMC_13,Metastasis,24089656,25920
+GSM1228230,metastasized cancer AMC_17-3,AMC_17,Metastasis,22391051,25645
+GSM1228231,metastasized cancer AMC_18-3,AMC_18,Metastasis,24764815,25873
+GSM1228232,metastasized cancer AMC_19-3,AMC_19,Metastasis,26118693,24862
+GSM1228233,metastasized cancer AMC_20-3,AMC_20,Metastasis,24245284,25952
+GSM1228234,metastasized cancer AMC_21-3,AMC_21,Metastasis,26644240,26418
+GSM1228235,metastasized cancer AMC_22-3,AMC_22,Metastasis,22639319,24572
+GSM1228236,metastasized cancer AMC_23-3,AMC_23,Metastasis,36867919,27306
+GSM1228237,metastasized cancer AMC_24-3,AMC_24,Metastasis,34863543,26550
