@@ -35,7 +35,7 @@ resultsNames(dds_p)
 
 res_met_pri <- get_res(dds_p, "tissue_Metastasis_vs_Primary")
 
-add_symbols() <- function(res){
+add_symbols <- function(res){
   as.data.frame(res) |>
     rownames_to_column("entrez") |>
     mutate(symbol = unname(AnnotationDbi::mapIds(
