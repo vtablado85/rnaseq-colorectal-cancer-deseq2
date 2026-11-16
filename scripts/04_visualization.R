@@ -69,3 +69,25 @@ p_volcano
 
 ggsave(file.path(fig_dir, "volcano_primary_vs_normal.png"), p_volcano,
        width = 8, height = 6, dpi = 300)
+
+p_ma <- ggplot(de, aes(x = baseMean, y = log2FoldChange, colour = status)) + 
+  geom_point(alpha = 0.5, size = 1) + 
+  geom_hline(yintercept = 0, colour = "black") + 
+  geom_hline(yintercept = c(-lfc_cut, lfc_cut), linetype = "dashed", colour = "grey40") + 
+  scale_x_log10(labels = scales::label_comma()) +
+  scale_color_manual(values = c(Down = "#2166AC", NS = "grey75", Up = "#B2182B")) + 
+  labs(
+    title = "MA plot: Primary tumor vs normal colon",
+    subtitle = paste0(n_up, " up and ", n_down, " down (padj < ", alpha, 
+                          ", |log2FC| >= ", lfc_cut, ")"),
+    x = "Mean of normalized counts (log10 scale)",
+    y = "Log2 fold change (apeglm shrunken)",
+    colour = NULL
+  ) + 
+  theme_bw()
+
+p_ma
+
+ggsave(file.path(fig_dir, "ma_primary_vs_normal.png"), p_ma,
+       width = 8, height = 6, dpi = 300)
+
