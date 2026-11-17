@@ -78,5 +78,5 @@ p_down <- dotplot(go_down_s, showCategory = 15, label_format = 40) +
 p_up
 p_down
 
-ggsave(file.path(fig_dir, "go_bp_up_primary_vs_normal.png"), p_up, width = 8, height = 7, dpi = 300)
-ggsave(file.path(fig_dir, "go_bp_down_primary_vs_normal.png"), p_down, width = 8, height = 7, dpi = 300)
+ggsave(file.path(fig_dir, "go_bp_up_primary_vs_normal.png"), p_up, width = 8, height = 9, dpi = 300)
+ggsave(file.path(fig_dir, "go_bp_down_primary_vs_normal.png"), p_down, width = 8, height = 9, dpi = 300)
