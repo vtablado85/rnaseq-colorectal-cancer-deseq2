@@ -73,3 +73,5 @@ png(file.path(fig_dir, "heatmap_top_genes_primary_vs_normal.png"),
     width = 2400, height = 2600, res = 300)
 grid::grid.draw(p_heat$gtable)
 dev.off()
+
+colnames(mat_z)[p_heat$tree_col$order]
